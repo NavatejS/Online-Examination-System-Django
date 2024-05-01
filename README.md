@@ -5,14 +5,13 @@ The Structured Systems Analysis and Design Methodology (SSADM) was employed for 
 Unlike traditional examination modes, the proposed online examination system can dynamically handle various examination information, such as time limitations, automatic test result calculation, and so on. Students can use a browser to access the web examination system from anywhere, giving it a high degree of freedom.
 The major purpose of the web examination system is to learn how to use it to automatically conduct exams. After the exam, the system can read the paper according to a specific strategy based on the reference answer. To reach this goal, we must manage examination questions methodically and effectively, as well as automatically provide timely examination results.
 
+Packages Used: Django, Asgiref, Bcrypt, Pillow, Pytz, Six, Sqlparse, validate_email
+
+Some of the screenshots of the project are given below.
+
 **Flow Chart of Student Module:**
 
 <img width="482" alt="Screenshot 2024-05-01 at 5 47 11 PM" src="https://github.com/NavatejS/Online-Examination-System-Django/assets/164386165/529fe857-8712-4e8f-a4dc-bc8717813b7e">
-
-
-
-Packages Used: Django, Asgiref, Bcrypt, Pillow, Pytz, Six, Sqlparse, validate_email
-
 
 
 #### Home Page:
